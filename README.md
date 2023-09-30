@@ -51,7 +51,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Alternatively refer to [backend/README.md](backend/README.md) and [frontend/README.md](frontend/README.md) for the running frontend or backend separately.
 - Frontend runs in Port 3000
 - Backend runs in Port 8080
-- Make sure no other process is using this port.
+- Make sure no other process is using these ports.
 
 <p align="center">
   <img src="./readme_assets/mentions.png" />
