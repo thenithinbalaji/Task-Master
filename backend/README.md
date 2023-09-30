@@ -6,7 +6,9 @@ Backend was made using Go - Gin, Gorm and Postgres.
 
 In the project directory, you can run:
 
-### `go run main.go`
+```bash
+go run main.go
+```
 
 Runs the backend in [http://localhost:8080](http://localhost:8080).
 
@@ -33,11 +35,12 @@ In the project directory, you can create a `.env` file to set the environment va
 PORT = 8080
 GIN_MODE = "release"
 
+# postgres connection
 DB_HOST = ""
 DB_PORT = 
 DB_NAME = ""
 DB_USER = ""
 DB_PASSWORD = ""
 
-JWT_SECRET = ""
+JWT_SECRET = "" # can be anything
 ```
