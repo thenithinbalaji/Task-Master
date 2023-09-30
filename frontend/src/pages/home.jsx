@@ -34,11 +34,11 @@ export default function Home() {
                     <div className="text-center">
                         <div className="mx-5">
                             <h1 className="mb-4 text-2xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-3xl">
-                                Welcome to <br /> <span className="text-7xl font-extrabold">Task Manager</span>
+                                Welcome to <br /> <span className="text-7xl font-extrabold">Task Master</span>
                             </h1>
 
                             <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48">
-                                Task Manager is a project management tool for software teams. It has a lot of features that help teams to manage their projects efficiently.
+                                Task Master is a project management tool for software teams. It has a lot of features that help teams to manage their projects efficiently.
                             </p>
 
                             <a href="/signup" className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:ring-blue-300">

@@ -74,7 +74,7 @@ export default function Login() {
                 <div className="flex justify-center my-auto mx-5">
                     <div>
                         <div className="font-bold my-5 mx-5">
-                            Login to <br /> <span className="mb-4 text-2xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-3xl">Task Manager</span>
+                            Login to <br /> <span className="mb-4 text-2xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-3xl">Task Master</span>
                         </div>
 
                         <div >

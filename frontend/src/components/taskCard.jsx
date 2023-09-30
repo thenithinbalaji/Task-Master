@@ -77,7 +77,7 @@ export default function TaskCard(props) {
                     toast.success("Task deleted");
                     setTimeout(function () {
                         window.location.reload();
-                    }, 1000);
+                    }, 500);
                 }
 
                 else {
