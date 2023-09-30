@@ -1,0 +1,19 @@
+{
+  "name": "task-master",
+  "version": "1.0.0",
+  "description": "Manage Tasks Like a Pro!",
+  "scripts": {
+    "start": "concurrently \"cd backend && go mod tidy && go run main.go\" \"cd frontend && npm install && npm run start\""
+  },
+  "keywords": [
+    "tasks",
+    "todo",
+    "organisation",
+    "jira"
+  ],
+  "author": "thenithinbalaji",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
